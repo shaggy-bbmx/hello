@@ -1,2 +1,3 @@
 # hello
-just for fun
+#include<string.h>
+main(){}
